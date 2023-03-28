@@ -1,0 +1,53 @@
+03/03
+
+VETORES
+
+ - VETOR
+
+    é utilizado na biologia e na matematica.
+    vetor é um segmento de reta com orientação
+
+    " ----> "é um vetor
+    origem           extremidade
+    do               do
+    vetor            vetor
+
+    serve para indicar uma orientação.
+    ex: empurrem a mesa para fora da sala.
+
+ - GRANDEZAS FISICAS
+    o que são? tudo que pode ser medido ex: velocidade , temperatura , etc...
+    Estas se dividem em grandezas escalares e vetoriais.
+    modulo: valor + unidade de medida
+
+    vetoriais : orientação necessária (modulo + direção + sentido)
+    direção: horizontal/vertical
+    sentido: para onde vai
+
+    escalares: somente seu valor (modulo)
+
+17/03
+
+    conceitos de :
+    a) velocidade
+    b) aceleração
+    c) Introdução a Eletricidade e Magnetismo
+
+    VELOCIDADE(V) X ACELERAÇÃO (A)
+
+    acelerar += velocidade
+
+    ambos são razoẽs
+
+    V = Δx/Δt
+
+    V é a razão entre a variação da posição(X) e intervalo de tempo(t)
+
+    A = Δv/Δt
+
+    A é a razão entre a varição da velociade(v) e o tempo(t)
+
+    A = 2m/s / s = 2m/s² (a cada segundo a velociade varia +2m/s)
+
+
+
