@@ -8,8 +8,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="gallifrey"
-
+ZSH_THEME="archcraft-dwm"
+#gallifrey
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
@@ -75,7 +75,7 @@ plugins=(git
  gitfast
  sudo
  zsh-autosuggestions
-zsh-syntax-highlighting)
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -104,9 +104,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias zconf="nano .zshrc"
+alias zconf="nano ~/.zshrc"
 alias xampp="cd /opt/lampp && sudo ./xampp start && cd"
 alias rb="reboot -f"
 alias jar="java -jar"
 alias react="npm create vite@latest"
+alias push="~/push.sh"
+
 source /home/raff/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
